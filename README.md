@@ -81,8 +81,6 @@ $ns run
 
 ## OUTPUT
 
-### MODEL OUTPUT
-
 <img width="724" height="433" alt="image" src="https://github.com/user-attachments/assets/fc433b5a-736b-4ce1-9e52-5b8ef0d5548b" />
 
 ## RESULT
